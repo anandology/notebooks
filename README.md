@@ -6,4 +6,8 @@ Collection of Jupyter notebooks exploring various math and programming problems
 
 The index of notebooks:
 
-* [Parameteric Equations and Rose Curves](noteboos/parametric-equations-and-rose-curves.ipynb)
+Titl
+
+|Title|Run|
+|---|---|
+| [Parameteric Equations and Rose Curves](notebooks/parametric-equations-and-rose-curves.ipynb) | [Colab](https://colab.research.google.com/github/anandology/notebooks/blob/main/notebooks/parametric-equations-and-rose-curves.ipynb)
